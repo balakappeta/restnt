@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<menu
+ xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.w3schools.com note.xsd">
+<!--xsi:schemaLocation="C://Users/Kavitha/Desktop/kavi/xml data/structure.xsd">-->
+
+	<starters>
+		<item>
+			<name>PaneerTikka</name>
+			<type>veg</type>
+			<price>50</price>
+		</item>
+		
+		<item>
+			<name>GobiManchuria</name>
+			<type>veg</type>
+			<price>40</price>
+		</item>
+		
+		<item>
+			<name>ChickenTikka</name>
+			<type>non-veg</type>
+			<price>80</price>
+		</item>
+		
+		<item>
+			<name>Chilli Chicken</name>
+			<type>non-veg</type>
+			<price>70</price>
+		</item>
+	</starters>
+
+	<main_course>
+		<item>
+			<name>Kaju Rice</name>
+			<type>veg</type>
+			<price>140</price>
+		</item>
+		
+		<item>
+			<name>Veg Biryani</name>
+			<type>veg</type>
+			<price>120</price>
+		</item>
+		
+		<item>
+			<name>Chicken Dhum Biryani</name>
+			<type>non-veg</type>
+			<price>200</price>
+		</item>
+		
+		<item>
+			<name>Chicken65 Biryani</name>
+			<type>non-veg</type>
+			<price>220</price>
+		</item>
+	</main_course>
+	
+	<curries>
+		<item>
+			<name>Paneer Butter Masala</name>
+			<type>veg</type>
+			<price>80</price>
+		</item>
+		
+		<item>
+			<name>Mushroom Masala</name>
+			<type>veg</type>
+			<price>75</price>
+		</item>
+		
+		<item>
+			<name>Butter Chicken</name>
+			<type>non-veg</type>
+			<price>90</price>
+		</item>
+		
+		<item>
+			<name>Fish Pulusu</name>
+			<type>non-veg</type>
+			<price>150</price>
+		</item>
+	</curries>
+	
+	<desserts>
+		<item>
+			<name>rasagulla</name>
+			<type> </type>
+			<price>35</price>
+		</item>
+		
+		<item>
+			<name>rasmalai</name>
+			<type> </type>
+			<price>40</price>
+		</item>
+		
+		<item>
+			<name>gulab jamun</name>
+			<type> </type>
+			<price>30</price>
+		</item>
+		
+		<item>
+			<name>Black Current</name>
+			<type> </type>
+			<price>40</price>
+		</item>
+	</desserts>
+	
+</menu>
